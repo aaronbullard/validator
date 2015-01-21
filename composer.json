@@ -1,0 +1,20 @@
+{
+    "name": "aaronbullard/validator",
+    "description": "Laravel form validator based on Laracasts/Validation package.",
+    "authors": [
+        {
+            "name": "Aaron Bullard",
+            "email": "JABullard@aol.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Aaronbullard\\Validator": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
